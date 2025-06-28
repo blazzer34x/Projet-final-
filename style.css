@@ -101,7 +101,7 @@ nav a:hover {
 #home {
   height: 100vh;
   background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
-    url("image/Tourisme.jpg");
+    url("/image/Tourisme.jpg");
   background-size: cover;
   background-position: center;
   display: flex;
